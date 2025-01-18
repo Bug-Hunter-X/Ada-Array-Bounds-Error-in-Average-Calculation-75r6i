@@ -1,0 +1,2 @@
+# Ada Array Bounds Error in Average Calculation
+This repository demonstrates a common error in Ada programming involving array bounds when calculating the average of elements in an array.  The `Calculate_Average` function incorrectly divides the sum by only the last index instead of the total number of elements, resulting in an inaccurate average. The solution shows the correct implementation.
